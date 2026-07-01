@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liquid Glass</string>
+    <string name="search_hint">Search apps</string>
+    <string name="all_apps">All apps</string>
+</resources>
